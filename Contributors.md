@@ -1,1 +1,1 @@
-[john woolbright] (github.com/jwoolbright23)
+[john woolbright](github.com/jwoolbright23)
