@@ -4,7 +4,7 @@ Sup John
 
 # fork the repository
 
-# flone the repository
+# clone the repository
 
 # creating a new branch
 
