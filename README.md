@@ -2,16 +2,16 @@
 Open source guide for beginners
 Sup John
 
-# Fork the Repository
+# fork the repository
 
-# Clone the Repository
+# flone the repository
 
-# Creating a new branch
+# creating a new branch
 
-# Making changes and Commiting
+# making changes and commiting
 
-# Pushing changes
+# pushing changes
 
-# Submitting changes for review and submit pull request
+# submitting changes for review and submit pull request
 
-# What next?
+# what next?
