@@ -1,17 +1,17 @@
 # open-source-starter-pack
 Open source guide for beginners
-Sup John
 
-# fork the repository
 
-# clone the repository
+# fork the repository (Nick)
 
-# creating a new branch
+# clone the repository (John)
 
-# making changes and commiting
+# creating a new branch(Nick)
 
-# pushing changes
+# making changes and commiting(John)
 
-# submitting changes for review and submit pull request
+# pushing changes(Nick)
 
-# what next?
+# submitting changes for review and submit pull request(John)
+
+# what next?(Both)
