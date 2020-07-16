@@ -3,6 +3,7 @@ Open source guide for beginners
 
 
 # fork the repository (Nick)
+Test One
 
 # clone the repository (John)
 The next step is to clone the repository to your machine. Navigate to your GitHub account, open the repository your forked, and click on the clone button. You should now see a clipboard icon, clicking this copies the repository to your clipboard.
