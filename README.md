@@ -1,13 +1,41 @@
-# open-source-starter-pack
+# LaunchCode's Open Source Starter Pack
 <img align = "right" width = "300" src="images/launchcode.png" alt = "launchcode_logo" />
 
-Open source guide for beginners
+Here is a little description so that Maria Laura is content :) 
 
+### Welcome to your very first open source project!
+If you hear the words open source, what emotions does it bring up for you? 
 
-# fork the repository (Nick)
-Test One
+Fear? Intimidation? Intrigue? 
 
-# clone the repository (John)
+You know what's exciting, you're in the exact same boat as every LaunchCoder who has crushed this open source tutorial. You'll feel even better when you complete your very first open source project. So let's get started!
+
+First, let's give you some context. Why are you here right now? Couple reasons:
+
+<ol>
+<li>Expand your skillset - Open source projects are a fantastic way to build your skills. You'll learn everything from git workflows to working with other people in an existing code base. User stories will become your best friend. 
+</li>
+<li> Showcase a more extensive portfolio to employers - Employers are always impressed by candidates who have worked on open source projects. Here is your chance to showcase your abilities.
+<li> It's going to be fun - LaunchCoders always ask us what ways they can better get to know each other. Here is your chance. What better way to connect with another LaunchCoder than debugging a feature for countless hours with some fellow LaunchCoders. 
+</li>
+</li>
+</ol>
+
+### How should you use this guide? 
+
+By following along to this readme and completing all the tasks, you are going to get your feet wet with your very first open source project. By the end of this project, you will have added your name to the list of contributors in the file Contributors.md. 
+
+### Materials that might be useful as you go through this guide:
+- If you don't have git downloaded on your computer, you can follow the instructions to [install git](https://docs.github.com/en/github/getting-started-with-github/set-up-git)
+- If you want a more detailed guide on git workflow to follow along to, feel free to check out our [git guide](https://education.launchcode.org/liftoff/modules/git/git-workflow.html)
+
+# Step 1: Fork the Repository
+<img align = "right" width = "300" src="images/Fork.png" alt = "forking_a_repository" />
+To get started, fork this repository. To do this, you'll click the "Fork" button in the top right corner. 
+
+You're most likely already familiar with forking, but if not, forking is creating a copy of another repository. In this instance, you'll be creating a copy of this exact repository to your own personal GitHub account. That way you can make any edits you would like on your local computer, and then eventually submit those changes back to this repository. 
+
+# Step 2: Clone the Repository
 <img align = "right" width = "300" src="images/git_clone.png" alt = "git_clone" />
 
 The next step is to clone the repository to your machine. Navigate to your GitHub account, open the repository you forked, and click on the code button. You should now see a clipboard icon, clicking this copies the repository to your clipboard.
@@ -25,9 +53,10 @@ git clone https://github.com/your-github-account/open-source-starter-pack.git
 Where "your-github-account" is your GitHub username. You are copying the contents of the open-source-starter-pack repository on GitHub to your machine.
 
 
-# creating a new branch(Nick)
+# Step 3: Creating a New Branch
 
-# making changes and commiting(John)
+
+# Step 4: Making Changes and Submitting
 Now open Contributors.md with your preferred text editor so that you can add your name.
 
 Example:
@@ -45,7 +74,7 @@ The last step is to commit these changes so that we can push them into our repos
 ```
 git commit -m "your custom message here"
 ```
-# pushing changes(Nick)
+# Step 5: Pushing Those Changes
 
 # submitting changes for review and submit pull request(John)
 Navigate to your GitHub repository and look for the `Compare & pull request` button.
