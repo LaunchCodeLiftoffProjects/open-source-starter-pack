@@ -46,5 +46,6 @@ git commit -m "your custom message here"
 # pushing changes(Nick)
 
 # submitting changes for review and submit pull request(John)
+Navigate to your GitHub repository and look for the `Compare & pull request` button.
 
 # what next?(Both)
