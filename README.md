@@ -26,7 +26,21 @@ Where "your-github-account" is your GitHub username. You are copying the content
 # creating a new branch(Nick)
 
 # making changes and commiting(John)
+Now open Contributors.md with your preferred text editor so that you can add your name.
 
+Example:
+[firstName lastName](https://github.com/yourprofile)
+
+Now you can navigate back to your project directory and run this git command `git status`, you should see that changes have been made to the Contributors.md file.
+
+To add these changes to the branch you created run the git command `git add`:
+```
+git add Contributors.md
+```
+The last step is to commit these changes so that we can push them into our repository. You can do so by using the `git commit` command:
+```
+git commit -m "your custom message here"
+```
 # pushing changes(Nick)
 
 # submitting changes for review and submit pull request(John)
