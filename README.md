@@ -1,4 +1,6 @@
 # open-source-starter-pack
+<img align = "right" width = "300" src="images/launchcode.png" alt = "launchcode_logo" />
+
 Open source guide for beginners
 
 
