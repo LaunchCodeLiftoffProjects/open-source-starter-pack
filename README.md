@@ -29,7 +29,7 @@ Where "your-github-account" is your GitHub username. You are copying the content
 Now open Contributors.md with your preferred text editor so that you can add your name.
 
 Example:
-[firstName lastName](https://github.com/yourprofile)
+"[firstName lastName](https://github.com/yourprofile)"
 
 Now you can navigate back to your project directory and run this git command `git status`, you should see that changes have been made to the Contributors.md file.
 
