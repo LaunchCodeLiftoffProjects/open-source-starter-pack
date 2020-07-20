@@ -122,7 +122,6 @@ Navigate to your GitHub repository and look for the `Compare & pull request` but
 Now submit your pull reqest:
 <img style = "float: right;" src="images/open_pull_request.png" alt = "git_clone" />
 
-
-
+After creating the pull request we will be able to merge these changes into the master branch of the open-source-starter-kit repository. Once the changes have been merged you will receive a notification.
 
 # what next?(Both)
