@@ -79,10 +79,10 @@ Example:
 ```
 [firstName lastName](https://github.com/yourprofile)
 ```
-
+<p>
 Now you can navigate back to your project directory and run this git command `git status`, you should see that changes have been made to the Contributors.md file.
 <img align = "left" width = "450" src="images/git_status.png" alt = "git_status" />
-<br/>
+</p>
 
 To add these changes to the branch you created run the git command `git add`:
 ```
