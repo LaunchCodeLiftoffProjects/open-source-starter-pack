@@ -97,6 +97,8 @@ Navigate to your GitHub repository and look for the `Compare & pull request` but
 <img style="float: right;" src="images/compare_and_pull.png" alt="submitting" />
 
 Now submit your pull reqest:
+<img align = "right" width = "300" src="images/open_pull_request.png" alt = "git_clone" />
+
 
 
 
