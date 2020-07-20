@@ -29,7 +29,8 @@ By following along to this readme and completing all the tasks, you are going to
 
 # Step 1: Fork the Repository
 <img align = "right" width = "300" src="images/Fork.png" alt = "forking_a_repository" />
-To get started, fork this repository. To do this, you'll click the "Fork" button in the top right corner. 
+To get started, fork this repository. To do this, you'll click the "Fork" button in the top right corner.
+
 
 You're most likely already familiar with forking, but if not, forking is creating a copy of another repository. 
 
