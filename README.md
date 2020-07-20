@@ -48,12 +48,28 @@ Where "url-you-just-copied" (without using quotation marks) is the url to your f
 
 Example:
 ```
-git clone https://github.com/your-github-account/open-source-starter-pack.git
+git clone https://github.com/your-github-username/open-source-starter-pack.git
 ```
 Where "your-github-account" is your GitHub username. You are copying the contents of the open-source-starter-pack repository on GitHub to your machine.
 
 
 # Step 3: Creating a New Branch
+
+
+Branching is an important concept when you're working on any project, but especially open source projects. You need to make sure you are creating a branch for each new feature you contribute to. For this example, you will create a branch to add your name to the Contributors.md file. 
+
+Change to the repository you just cloned:
+```
+cd open-source-starter-pack
+````
+
+Now create a branch using the `git checkout` command:
+*Note: You'll change nick-rafferty in the example below to your name when making your branch*
+```
+git checkout -b add-nick-rafferty
+```
+
+By making this branch, you now have made it clear to both yourself and others that the purpose of your branch is to add your name to the Contributors.md file. 
 
 
 # Step 4: Making Changes and Submitting
