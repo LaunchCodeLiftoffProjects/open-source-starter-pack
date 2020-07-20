@@ -125,3 +125,10 @@ Now submit your pull reqest:
 After creating the pull request we will be able to merge these changes into the master branch of the open-source-starter-kit repository. Once the changes have been merged you will receive a notification.
 
 # what next?(Both)
+We believe that a congratulations is in order! You have just completed what might be your first open-source workflow process. Contributing to open-source content will look and feel very similar to what you just experienced. 
+
+Please feel free to share this with your friends and family to show them what you have accomplished.
+
+Join us on Slack! - slackWorkSpaceHere
+
+Now lets jump into some more open-source project work - openSourceProjectsHere
