@@ -96,5 +96,8 @@ git commit -m "your custom message here"
 Navigate to your GitHub repository and look for the `Compare & pull request` button.
 <img style="float: right;" src="images/compare_and_pull.png" alt="submitting" />
 
+Now submit your pull reqest:
+
+
 
 # what next?(Both)
