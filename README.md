@@ -117,7 +117,12 @@ The last step is going to be to make sure the changes you made are reflected bac
 
 
 Navigate to your GitHub repository and look for the `Compare & pull request` button.
-<img style="float: right;" src="images/compare_and_pull.png" alt="submitting" />
+<img style = "float: right;" src="images/compare_and_pull.png" alt="submitting" />
+
+Now submit your pull reqest:
+<img style = "float: right;" src="images/open_pull_request.png" alt = "git_clone" />
+
+
 
 
 # what next?(Both)
