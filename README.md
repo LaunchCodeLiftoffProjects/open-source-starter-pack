@@ -81,6 +81,7 @@ Example:
 ```
 
 Now you can navigate back to your project directory and run this git command `git status`, you should see that changes have been made to the Contributors.md file.
+<img align = "right" width = "300" src="images/git_status.png" alt = "git_status" />
 
 To add these changes to the branch you created run the git command `git add`:
 ```
@@ -115,10 +116,10 @@ The last step is going to be to make sure the changes you made are reflected bac
 
 
 Navigate to your GitHub repository and look for the `Compare & pull request` button.
-<img style = "float: right;" src="images/compare_and_pull.png" alt="submitting" />
+<img style = "float: right;" src="images/compare_and_pull.png" alt="compare_and_pull" />
 
 Now submit your pull reqest:
-<img style = "float: right;" src="images/open_pull_request.png" alt = "git_clone" />
+<img style = "float: right;" src="images/open_pull_request.png" alt = "open_pull_request" />
 
 After creating the pull request we will be able to merge these changes into the master branch of the open-source-starter-kit repository. Once the changes have been merged you will receive a notification.
 
