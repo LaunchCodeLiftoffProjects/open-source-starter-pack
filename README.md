@@ -29,9 +29,13 @@ By following along to this readme and completing all the tasks, you are going to
 
 # Step 1: Fork the Repository
 <img align = "right" width = "300" src="images/Fork.png" alt = "forking_a_repository" />
-To get started, fork this repository. To do this, you'll click the "Fork" button in the top right corner. 
 
-You're most likely already familiar with forking, but if not, forking is creating a copy of another repository. In this instance, you'll be creating a copy of this exact repository to your own personal GitHub account. That way you can make any edits you would like on your local computer, and then eventually submit those changes back to this repository. 
+To get started, fork this repository. To do this, you'll click the "Fork" button in the top right corner.
+
+
+You're most likely already familiar with forking, but if not, forking is creating a copy of another repository. 
+
+In this instance, you'll be creating a copy of this exact repository to your own personal GitHub account. That way you can make any edits you would like on your local computer, and then eventually submit those changes back to this repository. 
 
 # Step 2: Clone the Repository
 <img align = "right" width = "300" src="images/git_clone_edited_new.png" alt = "git_clone" />
