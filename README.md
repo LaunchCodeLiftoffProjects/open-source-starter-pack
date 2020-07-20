@@ -1,8 +1,6 @@
 # LaunchCode's Open Source Starter Pack
 <img align = "right" width = "300" src="images/launchcode.png" alt = "launchcode_logo" />
 
-Here is a little description so that Maria Laura is content :) 
-
 ### Welcome to your very first open source project!
 If you hear the words open source, what emotions does it bring up for you? 
 
@@ -103,7 +101,7 @@ git push origin <add-your-branch-name>
 ```
 
 Now you might be a bit confused by this. Where is 'origin' coming from in the command above. You are currently working with 3 different repositories. That might seem confusing, but let's break it down. 
-1. Your local repository - You've already created that and made changes starting with the git clone command. 
+1. Your local repository - You've already created that and made changes starting with the git clone command. This is the local repository on your personal computer.
 2. Your GitHub repository - This is referred to as origin. As soon as you forked the LaunchCode repository in step 1, you created a copy under your Github account. 
 3. LaunchCodeLiftoffProjects/open-source-starter-pack - This was the original repository that you forked. 
 
@@ -124,7 +122,7 @@ Now submit your pull reqest:
 
 After creating the pull request we will be able to merge these changes into the master branch of the open-source-starter-kit repository. Once the changes have been merged you will receive a notification.
 
-# what next?(Both)
+# Step 7 and Beyond: Where to go from here?
 We believe that a congratulations is in order! You have just completed what might be your first open-source workflow process. Contributing to open-source content will look and feel very similar to what you just experienced. 
 
 Please feel free to share this with your friends and family to show them what you have accomplished.
