@@ -50,7 +50,7 @@ Example:
 ```
 git clone https://github.com/your-github-username/open-source-starter-pack.git
 ```
-Where "your-github-account" is your GitHub username. You are copying the contents of the open-source-starter-pack repository on GitHub to your machine.
+Where "your-github-username" is your GitHub username. You are copying the contents of the open-source-starter-pack repository on GitHub to your machine.
 
 
 # Step 3: Creating a New Branch
@@ -64,6 +64,8 @@ cd open-source-starter-pack
 ````
 
 Now create a branch using the `git checkout` command:
+
+
 *Note: You'll change nick-rafferty in the example below to your name when making your branch*
 ```
 git checkout -b add-nick-rafferty
@@ -92,7 +94,28 @@ git commit -m "your custom message here"
 ```
 # Step 5: Pushing Those Changes
 
-# submitting changes for review and submit pull request(John)
+
+Push your changes to your GitHub repository using the command `git push`: 
+
+
+```
+git push origin <add-your-branch-name>
+```
+
+Now you might be a bit confused by this. Where is 'origin' coming from in the command above. You are currently working with 3 different repositories. That might seem confusing, but let's break it down. 
+1. Your local repository - You've already created that and made changes starting with the git clone command. 
+2. Your GitHub repository - This is referred to as origin. As soon as you forked the LaunchCode repository in step 1, you created a copy under your Github account. 
+3. LaunchCodeLiftoffProjects/open-source-starter-pack - This was the original repository that you forked. 
+
+
+So now that you've pushed to 'origin' or your Github repository, let's check it out and see the changes. Go to Github and check out the Contributors.md file. You should now see your name added to that file. 
+
+
+# Step 6: Submitting Changes for Review and Submit Pull Request
+
+The last step is going to be to make sure the changes you made are reflected back to the original repository LaunchCodeLiftoffProjects/open-source-starter-pack. 
+
+
 Navigate to your GitHub repository and look for the `Compare & pull request` button.
 <img style="float: right;" src="images/compare_and_pull.png" alt="submitting" />
 
