@@ -132,6 +132,6 @@ We believe that a congratulations is in order! You have just completed what migh
 
 Please feel free to share this with your friends and family to show them what you have accomplished.
 
-Join us on Slack! - slackWorkSpaceHere
+Join us on Slack! The LaunchCode community is always a slack message away. 
 
-Now lets jump into some more open-source project work - openSourceProjectsHere
+Now that you're done with your first open source project, join us on a much more robust **second project.**
