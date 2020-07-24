@@ -38,11 +38,11 @@ You're most likely already familiar with forking, but if not, forking is creatin
 In this instance, you'll be creating a copy of this exact repository to your own personal GitHub account. That way you can make any edits you would like on your local computer, and then eventually submit those changes back to this repository. 
 # Step 2: File Structure
 Before you clone the forked repository onto your machine you want to make sure you store it in the desired location. Navigate to your terminal and run type "pwd" - this will show you your current directory location. Now run the command "ls". You should see something like this:
-<img align = "right" width = "300" src="images/pwd_ls.png" alt = "file_structure" />
+<img style = "float: right;" src="images/pwd_ls.png" alt = "file_structure" />
 
 
 # Step 3: Clone the Repository
-<img style = "float: right;" src="images/git_clone_edited_new.png" alt = "git_clone" />
+<img style = "float: right;" width = "300" src="images/git_clone_edited_new.png" alt = "git_clone" />
 
 The next step is to clone the repository to your machine. Navigate to your GitHub account, open the repository you forked, and click on the code button. You should now see a clipboard icon, clicking this copies the repository to your clipboard.
 
