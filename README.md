@@ -44,7 +44,7 @@ When you clone the repository in step 3, you will create a new project folder wi
 
 Example:
 <img align = "right" width = "300" src="images/pwd.png" alt = "git_clone" />
-Completing step 3 in this directory will create a new folder within Desktop.
+Completing step 3 in this directory "/Users/john/Desktop" will create a new folder within Desktop.
 
 
 
