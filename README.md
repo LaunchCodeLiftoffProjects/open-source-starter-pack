@@ -42,7 +42,7 @@ Before you clone the forked repository onto your machine you want to make sure y
 
 
 # Step 3: Clone the Repository
-<img style = "float: right;" width = "300" src="images/git_clone_edited_new.png" alt = "git_clone" />
+<img align = "right" width = "300" src="images/git_clone_edited_new.png" alt = "git_clone" />
 
 The next step is to clone the repository to your machine. Navigate to your GitHub account, open the repository you forked, and click on the code button. You should now see a clipboard icon, clicking this copies the repository to your clipboard.
 
