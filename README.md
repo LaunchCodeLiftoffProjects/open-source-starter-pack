@@ -36,8 +36,19 @@ To get started, fork this repository. To do this, you'll click the "Fork" button
 You're most likely already familiar with forking, but if not, forking is creating a copy of another repository. 
 
 In this instance, you'll be creating a copy of this exact repository to your own personal GitHub account. That way you can make any edits you would like on your local computer, and then eventually submit those changes back to this repository. 
+# Step 2: File Structure
 
-# Step 2: Clone the Repository
+If you are unfamiliar with the terminal and file structure, we recommend you read through our curriculum that covers these two topics before moving on to the next step: <a target="_blank" href="https://education.launchcode.org/intro-to-professional-web-dev/appendices/terminal-commands/terminal-commands-tutorial.html?highlight=file%20structure">Terminal Commands Tutorial</a>
+
+When you clone the repository in step 3, you will create a new project folder within your current directory location.
+
+Example:
+<img align = "right" width = "300" src="images/pwd.png" alt = "git_clone" />
+Completing step 3 in this directory "/Users/john/Desktop" will create a new folder within Desktop.
+
+
+
+# Step 3: Clone the Repository
 <img align = "right" width = "300" src="images/git_clone_edited_new.png" alt = "git_clone" />
 
 The next step is to clone the repository to your machine. Navigate to your GitHub account, open the repository you forked, and click on the code button. You should now see a clipboard icon, clicking this copies the repository to your clipboard.
