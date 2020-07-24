@@ -37,8 +37,9 @@ You're most likely already familiar with forking, but if not, forking is creatin
 
 In this instance, you'll be creating a copy of this exact repository to your own personal GitHub account. That way you can make any edits you would like on your local computer, and then eventually submit those changes back to this repository. 
 # Step 2: File Structure
-Before you clone the forked repository onto your machine you want to make sure you store it in the desired location. Navigate to your terminal and type **"pwd"** - this will show you your current directory location. Now run the command **"ls"**. You should see something like this:
-<img style = "float: right;" src="images/pwd_ls.png" alt = "file_structure" />
+
+If you are unfamiliar with the terminal and your machines file structure, we recommend you read through our curriculum that covers these two topics: [Terminal Commands Tutorial](https://education.launchcode.org/intro-to-professional-web-dev/appendices/terminal-commands/terminal-commands-tutorial.html?highlight=file%20structure)
+
 
 
 # Step 3: Clone the Repository
