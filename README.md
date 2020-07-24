@@ -39,6 +39,7 @@ In this instance, you'll be creating a copy of this exact repository to your own
 # Step 2: File Structure
 
 If you are unfamiliar with the terminal and your machines file structure, we recommend you read through our curriculum that covers these two topics before moving on to the next step: <a href="https://education.launchcode.org/intro-to-professional-web-dev/appendices/terminal-commands/terminal-commands-tutorial.html?highlight=file%20structure" target="_blank">Terminal Commands Tutorial</a>
+[Terminal Commands Tutorial](https://education.launchcode.org/intro-to-professional-web-dev/appendices/terminal-commands/terminal-commands-tutorial.html?highlight=file%20structure){:target="_blank"}
 
 
 # Step 3: Clone the Repository
