@@ -4,3 +4,5 @@
 [alexandria watkins](https://github.com/Alexandria242)
 [colyn gremaud](https://github.com/cgremaud)
 [greg wesloh](https://github.com/gwesloh)
+[lexi baysinger] (https://github.com/LexBay)
+
