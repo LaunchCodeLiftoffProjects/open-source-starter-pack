@@ -3,6 +3,8 @@
 [sarah freymiller](https://github.com/sfreymiller)
 [alexandria watkins](https://github.com/Alexandria242)
 [colyn gremaud](https://github.com/cgremaud)
+[Christina Varghese](https://github.com/christinichka)
 [greg wesloh](https://github.com/gwesloh)
 [lexi baysinger] (https://github.com/LexBay)
 [rachel rolon](https://github.com/rrolon47)
+
