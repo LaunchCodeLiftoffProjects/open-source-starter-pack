@@ -7,4 +7,4 @@
 [greg wesloh](https://github.com/gwesloh)
 [lexi baysinger] (https://github.com/LexBay)
 [rachel rolon](https://github.com/rrolon47)
-
+[jared farmer](https://github.com/JFarm0)
