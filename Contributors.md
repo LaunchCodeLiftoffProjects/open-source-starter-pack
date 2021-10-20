@@ -8,6 +8,6 @@
 [lexi baysinger] (https://github.com/LexBay)
 [rachel rolon](https://github.com/rrolon47)
 [jared farmer](https://github.com/JFarm0)
+[nevin barker](https://github.com/nevinbarker)
 [jack pettit](https://github.com/jpettit0317)
 [kenan kadic](https://github.com/Kenan-Kadic)
-
