@@ -12,3 +12,4 @@
 [jack pettit](https://github.com/jpettit0317)
 [kenan kadic](https://github.com/Kenan-Kadic)
 [greg bartosik](https://github.com/gregbartosik)
+[shaw coney](https://github.com/coney-s)
