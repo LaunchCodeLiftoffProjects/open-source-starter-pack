@@ -12,3 +12,5 @@
 [jack pettit](https://github.com/jpettit0317)
 [kenan kadic](https://github.com/Kenan-Kadic)
 [okjin shin](http://github.com/creativeoj)
+[greg bartosik](https://github.com/gregbartosik)
+[shaw coney](https://github.com/coney-s)
