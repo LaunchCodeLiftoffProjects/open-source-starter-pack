@@ -15,3 +15,4 @@
 [okjin shin](http://github.com/creativeoj)
 [greg bartosik](https://github.com/gregbartosik)
 [shaw coney](https://github.com/coney-s)
+[ritu senpandey](https://github.com/ritusp)
