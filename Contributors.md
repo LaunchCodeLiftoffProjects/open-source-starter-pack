@@ -12,3 +12,9 @@
 [jack pettit](https://github.com/jpettit0317)
 [kenan kadic](https://github.com/Kenan-Kadic)
 [dan jaboor](https://github.com/ODSTL)
+[jesse brown](https://github.com/C-Nug)
+[okjin shin](http://github.com/creativeoj)
+[greg bartosik](https://github.com/gregbartosik)
+[shaw coney](https://github.com/coney-s)
+[ritu senpandey](https://github.com/ritusp)
+
