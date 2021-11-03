@@ -17,7 +17,8 @@
 [greg bartosik](https://github.com/gregbartosik)
 [shaw coney](https://github.com/coney-s)
 [ritu senpandey](https://github.com/ritusp)
+[chris battle](https://github.com/chrisb1005)
 [andy_koch](https://github.com/RAndrewKoch)
- 
 [Kevin Lao](https://github.com/f00dog-x300)
 [Jon Cokely](https://github.com/JonathanCokely)
+
