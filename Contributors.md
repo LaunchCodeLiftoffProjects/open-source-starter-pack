@@ -20,5 +20,5 @@
 [chris battle](https://github.com/chrisb1005)
 [andy_koch](https://github.com/RAndrewKoch)
 [Kevin Lao](https://github.com/f00dog-x300)
-[Jon Cokely](https://github.com/JonathanCokely)
-[Jeff Gockel](https://github.com/EyeTyrant)
+[Jon Cokely](https://github.com/JonathanCokely),
+[Jeff Gockel](https://github.com/EyeTyrant),
