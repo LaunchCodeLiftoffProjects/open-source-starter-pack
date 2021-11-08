@@ -22,3 +22,4 @@
 [Kevin Lao](https://github.com/f00dog-x300),
 [Jon Cokely](https://github.com/JonathanCokely),
 [Jeff Gockel](https://github.com/EyeTyrant),
+[Lih Chen](https://github.com/elseesea),
