@@ -25,3 +25,4 @@
 [Lih Chen](https://github.com/elseesea),
 [Sandy Hadley](https://github.com/SMHadley),
 [Daniel Kibby](https://github.com/kibbyd),
+[Robert Swyers](https://github.com/baubsy),
