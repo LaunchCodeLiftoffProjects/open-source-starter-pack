@@ -23,4 +23,5 @@
 [Jon Cokely](https://github.com/JonathanCokely),
 [Jeff Gockel](https://github.com/EyeTyrant),
 [Lih Chen](https://github.com/elseesea),
-[Daniel Kibby](https://github.com/kibbyd)
+[Sandy Hadley](https://github.com/SMHadley),
+[Daniel Kibby](https://github.com/kibbyd),
