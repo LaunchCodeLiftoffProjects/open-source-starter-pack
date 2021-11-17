@@ -27,3 +27,4 @@
 [Daniel Kibby](https://github.com/kibbyd),
 [Robert Swyers](https://github.com/baubsy),
 [adam arras](https://github.com/aarras),
+[seth stephanz](https://github.com/sethstephanz),
