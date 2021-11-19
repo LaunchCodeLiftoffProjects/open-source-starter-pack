@@ -28,5 +28,6 @@
 [Robert Swyers](https://github.com/baubsy),
 [adam arras](https://github.com/aarras),
 [Test Contributor](notarealurl.com),
-[Test Contributor2](notarealurl2.com)
+[Test Contributor2](notarealurl2.com),
+[Test Contributor3](notarealurl3.com)
 
