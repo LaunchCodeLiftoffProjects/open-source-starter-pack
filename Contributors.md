@@ -28,5 +28,7 @@
 [Robert Swyers](https://github.com/baubsy),
 [adam arras](https://github.com/aarras),
 [seth stephanz](https://github.com/sethstephanz),
-[Andie Johnson](https://github.com/An-dy1)
+[Andie Johnson](https://github.com/An-dy1), 
+[Emma Howard](https://github.com/emmachoward/), 
 [Hasmik Varosyan](https://github.com/hasmikcoder)
+
