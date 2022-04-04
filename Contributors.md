@@ -30,5 +30,6 @@
 [seth stephanz](https://github.com/sethstephanz),
 [Andie Johnson](https://github.com/An-dy1), 
 [Emma Howard](https://github.com/emmachoward/), 
-[Hasmik Varosyan](https://github.com/hasmikcoder)
+[Hasmik Varosyan](https://github.com/hasmikcoder),
+[Rania Abdalla](https://github.com/raniabdalla)
 
