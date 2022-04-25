@@ -1,4 +1,3 @@
-
 [john woolbright](https://github.com/jwoolbright23),
 [koko esse](https://github.com/KossiviEsse1),
 [sarah freymiller](https://github.com/sfreymiller),
@@ -32,5 +31,5 @@
 [Andie Johnson](https://github.com/An-dy1), 
 [Emma Howard](https://github.com/emmachoward/), 
 [Hasmik Varosyan](https://github.com/hasmikcoder),
-[Rania Abdalla](https://github.com/raniabdalla)
+[Rania Abdalla](https://github.com/raniabdalla),
 [brian hoots](https://github.com/mainHoots)
