@@ -31,5 +31,5 @@
 [Andie Johnson](https://github.com/An-dy1), 
 [Emma Howard](https://github.com/emmachoward/), 
 [Hasmik Varosyan](https://github.com/hasmikcoder),
-[Rania Abdalla](https://github.com/raniabdalla)
-
+[Rania Abdalla](https://github.com/raniabdalla),
+[brian hoots](https://github.com/mainHoots)
