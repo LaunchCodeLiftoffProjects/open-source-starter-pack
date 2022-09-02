@@ -32,4 +32,5 @@
 [Emma Howard](https://github.com/emmachoward/), 
 [Hasmik Varosyan](https://github.com/hasmikcoder),
 [Rania Abdalla](https://github.com/raniabdalla),
-[brian hoots](https://github.com/mainHoots)
+[brian hoots](https://github.com/mainHoots),
+[Rich Galster](https://github.com/RGalster)
