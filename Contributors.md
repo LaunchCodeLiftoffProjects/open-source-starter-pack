@@ -6,3 +6,4 @@
 [greg wesloh](https://github.com/gwesloh)
 [lexi baysinger] (https://github.com/LexBay)
 [rachel rolon](https://github.com/rrolon47)
+[claire patterson](https://github.com/clairepatt19)
