@@ -1,13 +1,3 @@
-
-[john woolbright](https://github.com/jwoolbright23)
-[koko esse](https://github.com/KossiviEsse1)
-[sarah freymiller](https://github.com/sfreymiller)
-[alexandria watkins](https://github.com/Alexandria242)
-[colyn gremaud](https://github.com/cgremaud)
-[greg wesloh](https://github.com/gwesloh)
-[lexi baysinger] (https://github.com/LexBay)
-[rachel rolon](https://github.com/rrolon47)
-[claire patterson](https://github.com/clairepatt19)
 [john woolbright](https://github.com/jwoolbright23),
 [koko esse](https://github.com/KossiviEsse1),
 [sarah freymiller](https://github.com/sfreymiller),
@@ -43,4 +33,6 @@
 [Hasmik Varosyan](https://github.com/hasmikcoder),
 [Rania Abdalla](https://github.com/raniabdalla),
 [brian hoots](https://github.com/mainHoots),
-[Rich Galster](https://github.com/RGalster)
+[Rich Galster](https://github.com/RGalster),
+[Ian Ramsey](https://github.com/i-ramsey/),
+[claire patterson](https://github.com/clairepatt19)
