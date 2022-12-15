@@ -34,4 +34,5 @@
 [Rania Abdalla](https://github.com/raniabdalla),
 [brian hoots](https://github.com/mainHoots),
 [Rich Galster](https://github.com/RGalster),
-[Ian Ramsey](https://github.com/i-ramsey/)
+[Ian Ramsey](https://github.com/i-ramsey/),
+[claire patterson](https://github.com/clairepatt19)
