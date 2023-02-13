@@ -35,4 +35,5 @@
 [brian hoots](https://github.com/mainHoots),
 [Rich Galster](https://github.com/RGalster),
 [Ian Ramsey](https://github.com/i-ramsey/),
-[claire patterson](https://github.com/clairepatt19)
+[claire patterson](https://github.com/clairepatt19),
+[Sabrina Keeler](https://github.com/skeeler79),
