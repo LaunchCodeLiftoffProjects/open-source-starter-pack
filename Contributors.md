@@ -36,4 +36,4 @@
 [Rich Galster](https://github.com/RGalster),
 [Ian Ramsey](https://github.com/i-ramsey/),
 [claire patterson](https://github.com/clairepatt19),
-[Sabrina Keeler] (https://github.com/skeeler79)
+[Sabrina Keeler](https://github.com/skeeler79),
