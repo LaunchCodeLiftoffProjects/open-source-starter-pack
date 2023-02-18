@@ -36,3 +36,4 @@
 [Rich Galster](https://github.com/RGalster),
 [Ian Ramsey](https://github.com/i-ramsey/),
 [claire patterson](https://github.com/clairepatt19)
+[Abdulkhamidov Abrorbek](https://github.com/developerabrorbek)
